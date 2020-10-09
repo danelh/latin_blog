@@ -3,6 +3,7 @@ title: Res Latinae Blog
 url: https://danelh.github.io/latin_blog
 baseurl: /latin_blog
 purl: https://danelh.github.io/
+pburl: https://danelh.github.io/latin_blog
 google_analytics: UA-170550843-1
 
 plugins:
