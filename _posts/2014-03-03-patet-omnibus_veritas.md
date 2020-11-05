@@ -1,3 +1,0 @@
-## Patet omnibus veritas
-
-
