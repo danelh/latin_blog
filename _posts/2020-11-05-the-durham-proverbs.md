@@ -21,7 +21,7 @@ dixit qu[i] uidit [st]rigas capite pregredientes.
 16. [P]rudent[i] facile caus[a] insinuatur.
 17. Cecus duobus oculis qui pectore non cernit.
 18. [S]ol[i] illi non contendunt qui in unum non conueniunt.
-19. [Non omnia] uera dicend[a] sunt. (fol. 44v)
+19. [Non omnia] uera dicend[a] sunt.
 20. Bene loquere sic bene facias.
 21. Veritas seips[a]m semper declarat.
 22. [S]olu[m] igna[u]us [metuere pot]est.
@@ -30,7 +30,7 @@ dixit qu[i] uidit [st]rigas capite pregredientes.
 25. Melius centum adire loc[os] quam centum perpati contumelias.
 26. Non erit fidelis amicus qui mala celat imminens.
 27. Tam honest[o]s hospites quam suscipientes esse oportet.
-28. Omnia dona retrorsumr espiciunt.( fol. 45r)
+28. Omnia dona retrorsumr espiciunt.
 29. Nescit suaue diligere qui amarum non gustauerit.
 30. [G]audio car[et] an spes in mansione restat.
 31. Omnis exercitus quando dux [est] alacer.
