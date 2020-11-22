@@ -1,6 +1,6 @@
 ## The Durham Proverbs
 
-The Durham Proverbs is a collection of 46 mediaeval proverbs written in Latin and old-English. An ancient manuscript with the proverbs [can be seen](http://www.digipal.eu/digipal/page/1013/pages/) in Durham Cathedral B.III.32. Here is the proverbs in Latin (corrections and supplied letters are from: Arngart, Olof. "The Durham Proverbs." Speculum 56.2 (1981): 288-300.)
+The Durham Proverbs is a collection of 46 mediaeval proverbs written in Latin and old-English. An ancient manuscript with the proverbs [can be seen](http://www.digipal.eu/digipal/page/1013/pages/) in Durham Cathedral B.III.32. Here are the proverbs in Latin (corrections and supplied letters are from: Arngart, Olof. "The Durham Proverbs." Speculum 56.2 (1981): 288-300.)
 
 1. Portio beatitudinis. 
 2. Amicus tam prope quam longe bonus est.
