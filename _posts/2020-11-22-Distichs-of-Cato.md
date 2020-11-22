@@ -27,4 +27,4 @@ Aeger dives habet nummos, se non habet ipsum.
 For sick rich person has wealth, but doesn't have him himself.  
 
 There are several versions of the Cato, and also several translation. One version with English tranlation of  Wayland Johnson Chase is in the public domain and can be found [here](https://archive.org/details/distichsofcatofa00chasrich/).
-This tranlsation is quite free (in order to keep a rythem also in English!). For a modern translation which is closewr to the Latin by the author of the blog one can see [here](https://www.amazon.com/dp/B08NTLKRQZ). 
+This tranlsation is quite free (in order to keep a rythem also in English!). For a modern translation which is closer to the Latin by the author of the blog one can see [here](https://www.amazon.com/dp/B08NTLKRQZ). 
