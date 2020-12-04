@@ -7,7 +7,7 @@ naïvely as this may sound, L&S is the best source I was able to find for the se
 
 The industrious seeker might also take a look at [Forcellini dictionary][5](digital online!), sometimes it may have phrases or quasi-idioms or collocations that L&S does not seem to give much space for. The collocation *praebere usum*, for example, which is pretty [ubiquitous][6], is quite hidden in L&S, but [finds it's place][7] in Forcellini.
 
-### 2. Latin Collocations Tool
+### 2. [Latin Collocations Tool][8]
 More than a year ago, *mihi in mentem venit* (I thought of) making a tool for locating Latin collocations; it was *ante oculos* (in my mind) during all that time, so I was *laetus et alacer* (enthusiastic) to finally start working on it and complete it recently.
 
 [This tool][8] by itself has no pretense whatsoever to do anything else rather than to find the [technical/mathematical collocations][9] (for that reason it has value of it's own, and stands in it's own right). Yet with common-sense and effort, the user may use it for various ends; one of them is to find idiomatic expressions and collocations - as demonstrated by the phrases in *italics* scattered in this answer that can be discovered with this tool. Using this Tool we are able to learn several new idioms like [*"rumpe moras!"*][10](#5) or [*"osculum figere"*][11](#2) [they are idioms in the sense that unless one encounters them, the chances for him to use them "naturally" are quite low]. Many other expressions one expects to find are there, like: *bene rem gerere*, *mos gerere*, *immo pectore*, *niti genu*, *videre ut* and many more.
