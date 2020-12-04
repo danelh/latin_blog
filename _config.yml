@@ -6,5 +6,4 @@ pburl: https://danelh.github.io/latin_blog
 google_analytics: UA-170550843-1
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
