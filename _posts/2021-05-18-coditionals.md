@@ -32,5 +32,5 @@
 | **Past General Condition (Repeated Action)** | Pluperfect indicative  |  imperfect indicative |   |   
 | Past General Condition (Repeated Action) |    Imperfect subjunctive |imperfect indicative |  |
 
-
-Table was created using [*Allen and Greenough Latin Grammar*  §513, §514.](http://dcc.dickinson.edu/grammar/latin/classification-conditions)
+---
+Tables were created using [*Allen and Greenough Latin Grammar*  §513, §514.](http://dcc.dickinson.edu/grammar/latin/classification-conditions)
