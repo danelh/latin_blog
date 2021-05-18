@@ -12,7 +12,7 @@
 | condition  |protasis   |  apodosis |
 |:---|:---|:---|
 | **more vivid** | Future indicative  |  Future indicative |   |   
-| more vivid |   Future perfect indicative |future indicative |  |
+| more vivid |   Future perfect indicative |Future indicative |  |
 | **less vivid** | Present subjunctive  |  Present subjunctive |   |   
 | less vivid |   Perfect subjunctive |Present subjunctive |  |
 
@@ -28,9 +28,9 @@
 | condition  |protasis   |  apodosis |
 |:---|:---|:---|
 | **Present General Condition** | Present subjunctive 2nd person singular (indefinite subject)  |  present indicative|   |   
-| Present General Condition |   Perfect indicative |present indicative |  |
-| **Past General Condition (Repeated Action)** | Pluperfect indicative  |  imperfect indicative |   |   
-| Past General Condition (Repeated Action) |    Imperfect subjunctive |imperfect indicative |  |
+| Present General Condition |   Perfect indicative |Present indicative |  |
+| **Past General Condition (Repeated Action)** | Pluperfect indicative  |  Imperfect indicative |   |   
+| Past General Condition (Repeated Action) |    Imperfect subjunctive |Imperfect indicative |  |
 
 ---
 Tables were created using [*Allen and Greenough Latin Grammar*  §513, §514.](http://dcc.dickinson.edu/grammar/latin/classification-conditions)
